@@ -1,0 +1,9 @@
+name: Hub
+version: BETA
+description: None needed
+author: [Sky_General109, BURNED_ICEEE]
+main: net.portalkings.hub.Main
+commands:
+  preload:
+    aliases: [prl]
+  spawn:
